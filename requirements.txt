@@ -1,0 +1,12 @@
+PyQt5==5.15.9
+whisper-openai
+ollama
+gTTS
+sounddevice
+soundfile
+librosa
+numpy
+pygame
+uuid
+pyvirtualdisplay
+xvfbwrapper

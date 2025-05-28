@@ -1,0 +1,178 @@
+2025-05-27 19:01:05,759 - INFO - Directorio creado: c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio
+2025-05-27 19:01:05,760 - INFO - Directorio creado: c:\Users\Jinbe\Desktop\asistente-virtual\assets
+2025-05-27 19:03:15,236 - DEBUG - text: ¡Hola! Soy ELISA, tu asistente virtual. ¿Cómo te llamas?
+2025-05-27 19:03:16,021 - DEBUG - tld: com
+2025-05-27 19:03:16,021 - DEBUG - lang: es
+2025-05-27 19:03:16,021 - DEBUG - slow: False
+2025-05-27 19:03:16,040 - DEBUG - lang_check: True
+2025-05-27 19:03:16,040 - DEBUG - pre_processor_funcs: [<function tone_marks at 0x0000024DD4ABA160>, <function end_of_line at 0x0000024DD4ABA200>, <function abbreviations at 0x0000024DD4ABA340>, <function word_sub at 0x0000024DD4ABA3E0>]
+2025-05-27 19:03:18,481 - DEBUG - timeout: None
+2025-05-27 19:03:18,482 - DEBUG - langs: {'af': 'Afrikaans', 'am': 'Amharic', 'ar': 'Arabic', 'bg': 'Bulgarian', 'bn': 'Bengali', 'bs': 'Bosnian', 'ca': 'Catalan', 'cs': 'Czech', 'cy': 'Welsh', 'da': 'Danish', 'de': 'German', 'el': 'Greek', 'en': 'English', 'es': 'Spanish', 'et': 'Estonian', 'eu': 'Basque', 'fi': 'Finnish', 'fr': 'French', 'fr-CA': 'French (Canada)', 'gl': 'Galician', 'gu': 'Gujarati', 'ha': 'Hausa', 'hi': 'Hindi', 'hr': 'Croatian', 'hu': 'Hungarian', 'id': 'Indonesian', 'is': 'Icelandic', 'it': 'Italian', 'iw': 'Hebrew', 'ja': 'Japanese', 'jw': 'Javanese', 'km': 'Khmer', 'kn': 'Kannada', 'ko': 'Korean', 'la': 'Latin', 'lt': 'Lithuanian', 'lv': 'Latvian', 'ml': 'Malayalam', 'mr': 'Marathi', 'ms': 'Malay', 'my': 'Myanmar (Burmese)', 'ne': 'Nepali', 'nl': 'Dutch', 'no': 'Norwegian', 'pa': 'Punjabi (Gurmukhi)', 'pl': 'Polish', 'pt': 'Portuguese (Brazil)', 'pt-PT': 'Portuguese (Portugal)', 'ro': 'Romanian', 'ru': 'Russian', 'si': 'Sinhala', 'sk': 'Slovak', 'sq': 'Albanian', 'sr': 'Serbian', 'su': 'Sundanese', 'sv': 'Swedish', 'sw': 'Swahili', 'ta': 'Tamil', 'te': 'Telugu', 'th': 'Thai', 'tl': 'Filipino', 'tr': 'Turkish', 'uk': 'Ukrainian', 'ur': 'Urdu', 'vi': 'Vietnamese', 'yue': 'Cantonese', 'zh-CN': 'Chinese (Simplified)', 'zh-TW': 'Chinese (Mandarin/Taiwan)', 'zh': 'Chinese (Mandarin)'}
+2025-05-27 19:03:18,486 - DEBUG - pre-processing: <function tone_marks at 0x0000024DD4ABA160>
+2025-05-27 19:03:18,493 - DEBUG - pre-processing: <function end_of_line at 0x0000024DD4ABA200>
+2025-05-27 19:03:18,493 - DEBUG - pre-processing: <function abbreviations at 0x0000024DD4ABA340>
+2025-05-27 19:03:18,495 - DEBUG - pre-processing: <function word_sub at 0x0000024DD4ABA3E0>
+2025-05-27 19:03:18,544 - DEBUG - text_parts: ['¡Hola!  Soy ELISA, tu asistente virtual. ¿Cómo te llamas?']
+2025-05-27 19:03:18,545 - DEBUG - text_parts: 1
+2025-05-27 19:03:18,609 - DEBUG - data-0: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22%5C%5Cu00a1Hola%21%20%20Soy%20ELISA%2C%20tu%20asistente%20virtual.%20%5C%5Cu00bfC%5C%5Cu00f3mo%20te%20llamas%3F%5C%22%2C%5C%22es%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2025-05-27 19:03:19,428 - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2025-05-27 19:03:32,628 - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2025-05-27 19:03:32,736 - DEBUG - headers-0: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '241'}
+2025-05-27 19:03:32,737 - DEBUG - url-0: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2025-05-27 19:03:32,737 - DEBUG - status-0: 200
+2025-05-27 19:03:33,117 - DEBUG - part-0 written to <_io.BufferedWriter name='c:\\Users\\Jinbe\\Desktop\\asistente-virtual\\temp_audio\\respuesta_f20c8f59-f646-4192-b25c-580fde2fc81d.mp3'>
+2025-05-27 19:03:33,353 - DEBUG - part-0 created
+2025-05-27 19:03:33,482 - DEBUG - Saved to c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio\respuesta_f20c8f59-f646-4192-b25c-580fde2fc81d.mp3
+2025-05-27 19:04:21,836 - INFO - Archivo de audio creado: c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio\grabacion.wav (1323044 bytes)
+2025-05-27 19:05:53,467 - INFO - Nombre detectado: Pablo.
+2025-05-27 19:05:53,545 - DEBUG - text: ¡Mucho gusto, Pablo.! ¿En qué puedo ayudarte hoy?
+2025-05-27 19:05:53,546 - DEBUG - tld: com
+2025-05-27 19:05:53,546 - DEBUG - lang: es
+2025-05-27 19:05:53,546 - DEBUG - slow: False
+2025-05-27 19:05:53,547 - DEBUG - lang_check: True
+2025-05-27 19:05:53,547 - DEBUG - pre_processor_funcs: [<function tone_marks at 0x0000024DD4ABA160>, <function end_of_line at 0x0000024DD4ABA200>, <function abbreviations at 0x0000024DD4ABA340>, <function word_sub at 0x0000024DD4ABA3E0>]
+2025-05-27 19:05:53,586 - DEBUG - timeout: None
+2025-05-27 19:05:53,586 - DEBUG - langs: {'af': 'Afrikaans', 'am': 'Amharic', 'ar': 'Arabic', 'bg': 'Bulgarian', 'bn': 'Bengali', 'bs': 'Bosnian', 'ca': 'Catalan', 'cs': 'Czech', 'cy': 'Welsh', 'da': 'Danish', 'de': 'German', 'el': 'Greek', 'en': 'English', 'es': 'Spanish', 'et': 'Estonian', 'eu': 'Basque', 'fi': 'Finnish', 'fr': 'French', 'fr-CA': 'French (Canada)', 'gl': 'Galician', 'gu': 'Gujarati', 'ha': 'Hausa', 'hi': 'Hindi', 'hr': 'Croatian', 'hu': 'Hungarian', 'id': 'Indonesian', 'is': 'Icelandic', 'it': 'Italian', 'iw': 'Hebrew', 'ja': 'Japanese', 'jw': 'Javanese', 'km': 'Khmer', 'kn': 'Kannada', 'ko': 'Korean', 'la': 'Latin', 'lt': 'Lithuanian', 'lv': 'Latvian', 'ml': 'Malayalam', 'mr': 'Marathi', 'ms': 'Malay', 'my': 'Myanmar (Burmese)', 'ne': 'Nepali', 'nl': 'Dutch', 'no': 'Norwegian', 'pa': 'Punjabi (Gurmukhi)', 'pl': 'Polish', 'pt': 'Portuguese (Brazil)', 'pt-PT': 'Portuguese (Portugal)', 'ro': 'Romanian', 'ru': 'Russian', 'si': 'Sinhala', 'sk': 'Slovak', 'sq': 'Albanian', 'sr': 'Serbian', 'su': 'Sundanese', 'sv': 'Swedish', 'sw': 'Swahili', 'ta': 'Tamil', 'te': 'Telugu', 'th': 'Thai', 'tl': 'Filipino', 'tr': 'Turkish', 'uk': 'Ukrainian', 'ur': 'Urdu', 'vi': 'Vietnamese', 'yue': 'Cantonese', 'zh-CN': 'Chinese (Simplified)', 'zh-TW': 'Chinese (Mandarin/Taiwan)', 'zh': 'Chinese (Mandarin)'}
+2025-05-27 19:05:53,589 - DEBUG - pre-processing: <function tone_marks at 0x0000024DD4ABA160>
+2025-05-27 19:05:53,589 - DEBUG - pre-processing: <function end_of_line at 0x0000024DD4ABA200>
+2025-05-27 19:05:53,590 - DEBUG - pre-processing: <function abbreviations at 0x0000024DD4ABA340>
+2025-05-27 19:05:53,590 - DEBUG - pre-processing: <function word_sub at 0x0000024DD4ABA3E0>
+2025-05-27 19:05:53,591 - DEBUG - text_parts: ['¡Mucho gusto, Pablo.!  ¿En qué puedo ayudarte hoy?']
+2025-05-27 19:05:53,591 - DEBUG - text_parts: 1
+2025-05-27 19:05:53,592 - DEBUG - data-0: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22%5C%5Cu00a1Mucho%20gusto%2C%20Pablo.%21%20%20%5C%5Cu00bfEn%20qu%5C%5Cu00e9%20puedo%20ayudarte%20hoy%3F%5C%22%2C%5C%22es%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2025-05-27 19:05:53,676 - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2025-05-27 19:05:54,203 - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2025-05-27 19:05:54,266 - DEBUG - headers-0: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '232'}
+2025-05-27 19:05:54,266 - DEBUG - url-0: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2025-05-27 19:05:54,266 - DEBUG - status-0: 200
+2025-05-27 19:05:54,268 - DEBUG - part-0 written to <_io.BufferedWriter name='c:\\Users\\Jinbe\\Desktop\\asistente-virtual\\temp_audio\\respuesta_3c061b56-abd4-439f-97da-2d7acd461e2c.mp3'>
+2025-05-27 19:05:54,268 - DEBUG - part-0 created
+2025-05-27 19:05:54,269 - DEBUG - Saved to c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio\respuesta_3c061b56-abd4-439f-97da-2d7acd461e2c.mp3
+2025-05-27 19:06:18,491 - INFO - Archivo de audio creado: c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio\grabacion.wav (1323044 bytes)
+2025-05-27 19:06:26,398 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-05-27 19:06:26,410 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000024DD6639A90>
+2025-05-27 19:06:26,422 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-05-27 19:06:26,482 - DEBUG - send_request_headers.complete
+2025-05-27 19:06:26,483 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-05-27 19:06:26,484 - DEBUG - send_request_body.complete
+2025-05-27 19:06:26,484 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-05-27 19:06:28,891 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 500, b'Internal Server Error', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Tue, 27 May 2025 23:06:28 GMT'), (b'Content-Length', b'83')])
+2025-05-27 19:06:28,967 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 500 Internal Server Error"
+2025-05-27 19:06:28,995 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-05-27 19:06:29,004 - DEBUG - receive_response_body.complete
+2025-05-27 19:06:29,004 - DEBUG - response_closed.started
+2025-05-27 19:06:29,004 - DEBUG - response_closed.complete
+2025-05-27 19:06:29,221 - ERROR - Error al generar respuesta: model requires more system memory (5.5 GiB) than is available (4.1 GiB) (status code: 500)
+2025-05-27 19:06:29,242 - DEBUG - text: Lo siento, no pude procesar tu solicitud.
+2025-05-27 19:06:29,242 - DEBUG - tld: com
+2025-05-27 19:06:29,243 - DEBUG - lang: es
+2025-05-27 19:06:29,243 - DEBUG - slow: False
+2025-05-27 19:06:29,244 - DEBUG - lang_check: True
+2025-05-27 19:06:29,244 - DEBUG - pre_processor_funcs: [<function tone_marks at 0x0000024DD4ABA160>, <function end_of_line at 0x0000024DD4ABA200>, <function abbreviations at 0x0000024DD4ABA340>, <function word_sub at 0x0000024DD4ABA3E0>]
+2025-05-27 19:06:29,249 - DEBUG - timeout: None
+2025-05-27 19:06:29,250 - DEBUG - langs: {'af': 'Afrikaans', 'am': 'Amharic', 'ar': 'Arabic', 'bg': 'Bulgarian', 'bn': 'Bengali', 'bs': 'Bosnian', 'ca': 'Catalan', 'cs': 'Czech', 'cy': 'Welsh', 'da': 'Danish', 'de': 'German', 'el': 'Greek', 'en': 'English', 'es': 'Spanish', 'et': 'Estonian', 'eu': 'Basque', 'fi': 'Finnish', 'fr': 'French', 'fr-CA': 'French (Canada)', 'gl': 'Galician', 'gu': 'Gujarati', 'ha': 'Hausa', 'hi': 'Hindi', 'hr': 'Croatian', 'hu': 'Hungarian', 'id': 'Indonesian', 'is': 'Icelandic', 'it': 'Italian', 'iw': 'Hebrew', 'ja': 'Japanese', 'jw': 'Javanese', 'km': 'Khmer', 'kn': 'Kannada', 'ko': 'Korean', 'la': 'Latin', 'lt': 'Lithuanian', 'lv': 'Latvian', 'ml': 'Malayalam', 'mr': 'Marathi', 'ms': 'Malay', 'my': 'Myanmar (Burmese)', 'ne': 'Nepali', 'nl': 'Dutch', 'no': 'Norwegian', 'pa': 'Punjabi (Gurmukhi)', 'pl': 'Polish', 'pt': 'Portuguese (Brazil)', 'pt-PT': 'Portuguese (Portugal)', 'ro': 'Romanian', 'ru': 'Russian', 'si': 'Sinhala', 'sk': 'Slovak', 'sq': 'Albanian', 'sr': 'Serbian', 'su': 'Sundanese', 'sv': 'Swedish', 'sw': 'Swahili', 'ta': 'Tamil', 'te': 'Telugu', 'th': 'Thai', 'tl': 'Filipino', 'tr': 'Turkish', 'uk': 'Ukrainian', 'ur': 'Urdu', 'vi': 'Vietnamese', 'yue': 'Cantonese', 'zh-CN': 'Chinese (Simplified)', 'zh-TW': 'Chinese (Mandarin/Taiwan)', 'zh': 'Chinese (Mandarin)'}
+2025-05-27 19:06:29,286 - DEBUG - pre-processing: <function tone_marks at 0x0000024DD4ABA160>
+2025-05-27 19:06:29,287 - DEBUG - pre-processing: <function end_of_line at 0x0000024DD4ABA200>
+2025-05-27 19:06:29,287 - DEBUG - pre-processing: <function abbreviations at 0x0000024DD4ABA340>
+2025-05-27 19:06:29,287 - DEBUG - pre-processing: <function word_sub at 0x0000024DD4ABA3E0>
+2025-05-27 19:06:29,288 - DEBUG - text_parts: ['Lo siento, no pude procesar tu solicitud.']
+2025-05-27 19:06:29,288 - DEBUG - text_parts: 1
+2025-05-27 19:06:29,288 - DEBUG - data-0: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Lo%20siento%2C%20no%20pude%20procesar%20tu%20solicitud.%5C%22%2C%5C%22es%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2025-05-27 19:06:29,289 - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2025-05-27 19:06:29,802 - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2025-05-27 19:06:29,862 - DEBUG - headers-0: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '185'}
+2025-05-27 19:06:29,863 - DEBUG - url-0: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2025-05-27 19:06:29,863 - DEBUG - status-0: 200
+2025-05-27 19:06:29,865 - DEBUG - part-0 written to <_io.BufferedWriter name='c:\\Users\\Jinbe\\Desktop\\asistente-virtual\\temp_audio\\respuesta_b25309ec-c2e6-42a0-b196-badf6c6a69b7.mp3'>
+2025-05-27 19:06:29,865 - DEBUG - part-0 created
+2025-05-27 19:06:29,866 - DEBUG - Saved to c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio\respuesta_b25309ec-c2e6-42a0-b196-badf6c6a69b7.mp3
+2025-05-27 19:14:52,285 - INFO - Directorio creado: c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio
+2025-05-27 19:14:52,311 - INFO - Directorio creado: c:\Users\Jinbe\Desktop\asistente-virtual\assets
+2025-05-27 19:20:44,643 - INFO - Directorio creado: c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio
+2025-05-27 19:20:44,644 - INFO - Directorio creado: c:\Users\Jinbe\Desktop\asistente-virtual\assets
+2025-05-27 19:23:40,701 - DEBUG - text: ¡Hola! Soy ELISA, tu asistente virtual. ¿Cómo te llamas?
+2025-05-27 19:23:44,635 - DEBUG - tld: com
+2025-05-27 19:23:44,635 - DEBUG - lang: es
+2025-05-27 19:23:44,635 - DEBUG - slow: False
+2025-05-27 19:23:44,636 - DEBUG - lang_check: True
+2025-05-27 19:23:44,636 - DEBUG - pre_processor_funcs: [<function tone_marks at 0x000001F25C0AA160>, <function end_of_line at 0x000001F25C0AA200>, <function abbreviations at 0x000001F25C0AA340>, <function word_sub at 0x000001F25C0AA3E0>]
+2025-05-27 19:23:51,620 - DEBUG - timeout: None
+2025-05-27 19:23:51,864 - DEBUG - langs: {'af': 'Afrikaans', 'am': 'Amharic', 'ar': 'Arabic', 'bg': 'Bulgarian', 'bn': 'Bengali', 'bs': 'Bosnian', 'ca': 'Catalan', 'cs': 'Czech', 'cy': 'Welsh', 'da': 'Danish', 'de': 'German', 'el': 'Greek', 'en': 'English', 'es': 'Spanish', 'et': 'Estonian', 'eu': 'Basque', 'fi': 'Finnish', 'fr': 'French', 'fr-CA': 'French (Canada)', 'gl': 'Galician', 'gu': 'Gujarati', 'ha': 'Hausa', 'hi': 'Hindi', 'hr': 'Croatian', 'hu': 'Hungarian', 'id': 'Indonesian', 'is': 'Icelandic', 'it': 'Italian', 'iw': 'Hebrew', 'ja': 'Japanese', 'jw': 'Javanese', 'km': 'Khmer', 'kn': 'Kannada', 'ko': 'Korean', 'la': 'Latin', 'lt': 'Lithuanian', 'lv': 'Latvian', 'ml': 'Malayalam', 'mr': 'Marathi', 'ms': 'Malay', 'my': 'Myanmar (Burmese)', 'ne': 'Nepali', 'nl': 'Dutch', 'no': 'Norwegian', 'pa': 'Punjabi (Gurmukhi)', 'pl': 'Polish', 'pt': 'Portuguese (Brazil)', 'pt-PT': 'Portuguese (Portugal)', 'ro': 'Romanian', 'ru': 'Russian', 'si': 'Sinhala', 'sk': 'Slovak', 'sq': 'Albanian', 'sr': 'Serbian', 'su': 'Sundanese', 'sv': 'Swedish', 'sw': 'Swahili', 'ta': 'Tamil', 'te': 'Telugu', 'th': 'Thai', 'tl': 'Filipino', 'tr': 'Turkish', 'uk': 'Ukrainian', 'ur': 'Urdu', 'vi': 'Vietnamese', 'yue': 'Cantonese', 'zh-CN': 'Chinese (Simplified)', 'zh-TW': 'Chinese (Mandarin/Taiwan)', 'zh': 'Chinese (Mandarin)'}
+2025-05-27 19:23:52,227 - DEBUG - pre-processing: <function tone_marks at 0x000001F25C0AA160>
+2025-05-27 19:23:53,252 - DEBUG - pre-processing: <function end_of_line at 0x000001F25C0AA200>
+2025-05-27 19:23:53,253 - DEBUG - pre-processing: <function abbreviations at 0x000001F25C0AA340>
+2025-05-27 19:23:53,261 - DEBUG - pre-processing: <function word_sub at 0x000001F25C0AA3E0>
+2025-05-27 19:23:53,335 - DEBUG - text_parts: ['¡Hola!  Soy ELISA, tu asistente virtual. ¿Cómo te llamas?']
+2025-05-27 19:23:53,427 - DEBUG - text_parts: 1
+2025-05-27 19:23:53,671 - DEBUG - data-0: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22%5C%5Cu00a1Hola%21%20%20Soy%20ELISA%2C%20tu%20asistente%20virtual.%20%5C%5Cu00bfC%5C%5Cu00f3mo%20te%20llamas%3F%5C%22%2C%5C%22es%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2025-05-27 19:23:55,617 - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2025-05-27 19:24:04,649 - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2025-05-27 19:24:05,022 - DEBUG - headers-0: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '241'}
+2025-05-27 19:24:05,023 - DEBUG - url-0: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2025-05-27 19:24:05,023 - DEBUG - status-0: 200
+2025-05-27 19:24:05,212 - DEBUG - part-0 written to <_io.BufferedWriter name='c:\\Users\\Jinbe\\Desktop\\asistente-virtual\\temp_audio\\respuesta_a4b2b118-8468-46d7-9a3d-53d96175c23c.mp3'>
+2025-05-27 19:24:05,212 - DEBUG - part-0 created
+2025-05-27 19:24:05,234 - DEBUG - Saved to c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio\respuesta_a4b2b118-8468-46d7-9a3d-53d96175c23c.mp3
+2025-05-27 19:24:18,489 - INFO - Archivo de audio creado: c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio\grabacion.wav (1323044 bytes)
+2025-05-27 19:24:45,244 - INFO - Nombre detectado: Pedro.
+2025-05-27 19:24:45,859 - DEBUG - text: ¡Mucho gusto, Pedro.! ¿En qué puedo ayudarte hoy?
+2025-05-27 19:24:45,859 - DEBUG - tld: com
+2025-05-27 19:24:45,859 - DEBUG - lang: es
+2025-05-27 19:24:45,860 - DEBUG - slow: False
+2025-05-27 19:24:45,860 - DEBUG - lang_check: True
+2025-05-27 19:24:45,861 - DEBUG - pre_processor_funcs: [<function tone_marks at 0x000001F25C0AA160>, <function end_of_line at 0x000001F25C0AA200>, <function abbreviations at 0x000001F25C0AA340>, <function word_sub at 0x000001F25C0AA3E0>]
+2025-05-27 19:24:45,904 - DEBUG - timeout: None
+2025-05-27 19:24:45,905 - DEBUG - langs: {'af': 'Afrikaans', 'am': 'Amharic', 'ar': 'Arabic', 'bg': 'Bulgarian', 'bn': 'Bengali', 'bs': 'Bosnian', 'ca': 'Catalan', 'cs': 'Czech', 'cy': 'Welsh', 'da': 'Danish', 'de': 'German', 'el': 'Greek', 'en': 'English', 'es': 'Spanish', 'et': 'Estonian', 'eu': 'Basque', 'fi': 'Finnish', 'fr': 'French', 'fr-CA': 'French (Canada)', 'gl': 'Galician', 'gu': 'Gujarati', 'ha': 'Hausa', 'hi': 'Hindi', 'hr': 'Croatian', 'hu': 'Hungarian', 'id': 'Indonesian', 'is': 'Icelandic', 'it': 'Italian', 'iw': 'Hebrew', 'ja': 'Japanese', 'jw': 'Javanese', 'km': 'Khmer', 'kn': 'Kannada', 'ko': 'Korean', 'la': 'Latin', 'lt': 'Lithuanian', 'lv': 'Latvian', 'ml': 'Malayalam', 'mr': 'Marathi', 'ms': 'Malay', 'my': 'Myanmar (Burmese)', 'ne': 'Nepali', 'nl': 'Dutch', 'no': 'Norwegian', 'pa': 'Punjabi (Gurmukhi)', 'pl': 'Polish', 'pt': 'Portuguese (Brazil)', 'pt-PT': 'Portuguese (Portugal)', 'ro': 'Romanian', 'ru': 'Russian', 'si': 'Sinhala', 'sk': 'Slovak', 'sq': 'Albanian', 'sr': 'Serbian', 'su': 'Sundanese', 'sv': 'Swedish', 'sw': 'Swahili', 'ta': 'Tamil', 'te': 'Telugu', 'th': 'Thai', 'tl': 'Filipino', 'tr': 'Turkish', 'uk': 'Ukrainian', 'ur': 'Urdu', 'vi': 'Vietnamese', 'yue': 'Cantonese', 'zh-CN': 'Chinese (Simplified)', 'zh-TW': 'Chinese (Mandarin/Taiwan)', 'zh': 'Chinese (Mandarin)'}
+2025-05-27 19:24:45,906 - DEBUG - pre-processing: <function tone_marks at 0x000001F25C0AA160>
+2025-05-27 19:24:45,907 - DEBUG - pre-processing: <function end_of_line at 0x000001F25C0AA200>
+2025-05-27 19:24:45,907 - DEBUG - pre-processing: <function abbreviations at 0x000001F25C0AA340>
+2025-05-27 19:24:45,907 - DEBUG - pre-processing: <function word_sub at 0x000001F25C0AA3E0>
+2025-05-27 19:24:45,908 - DEBUG - text_parts: ['¡Mucho gusto, Pedro.!  ¿En qué puedo ayudarte hoy?']
+2025-05-27 19:24:45,908 - DEBUG - text_parts: 1
+2025-05-27 19:24:45,908 - DEBUG - data-0: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22%5C%5Cu00a1Mucho%20gusto%2C%20Pedro.%21%20%20%5C%5Cu00bfEn%20qu%5C%5Cu00e9%20puedo%20ayudarte%20hoy%3F%5C%22%2C%5C%22es%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2025-05-27 19:24:45,910 - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2025-05-27 19:24:47,297 - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2025-05-27 19:24:47,486 - DEBUG - headers-0: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '232'}
+2025-05-27 19:24:47,487 - DEBUG - url-0: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2025-05-27 19:24:47,487 - DEBUG - status-0: 200
+2025-05-27 19:24:47,489 - DEBUG - part-0 written to <_io.BufferedWriter name='c:\\Users\\Jinbe\\Desktop\\asistente-virtual\\temp_audio\\respuesta_2904f65f-53e1-412f-ae9a-b3c51071a6a0.mp3'>
+2025-05-27 19:24:47,489 - DEBUG - part-0 created
+2025-05-27 19:24:47,490 - DEBUG - Saved to c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio\respuesta_2904f65f-53e1-412f-ae9a-b3c51071a6a0.mp3
+2025-05-27 19:25:13,041 - INFO - Archivo de audio creado: c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio\grabacion.wav (1323044 bytes)
+2025-05-27 19:25:20,132 - DEBUG - connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2025-05-27 19:25:20,156 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001F25DC49A90>
+2025-05-27 19:25:20,217 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-05-27 19:25:20,231 - DEBUG - send_request_headers.complete
+2025-05-27 19:25:20,231 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-05-27 19:25:20,232 - DEBUG - send_request_body.complete
+2025-05-27 19:25:20,232 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-05-27 19:25:20,832 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 500, b'Internal Server Error', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Tue, 27 May 2025 23:25:20 GMT'), (b'Content-Length', b'83')])
+2025-05-27 19:25:20,944 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 500 Internal Server Error"
+2025-05-27 19:25:20,989 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-05-27 19:25:20,990 - DEBUG - receive_response_body.complete
+2025-05-27 19:25:21,008 - DEBUG - response_closed.started
+2025-05-27 19:25:21,008 - DEBUG - response_closed.complete
+2025-05-27 19:25:21,185 - ERROR - Error al generar respuesta: model requires more system memory (4.8 GiB) than is available (3.4 GiB) (status code: 500)
+2025-05-27 19:25:21,202 - DEBUG - text: Lo siento, no pude procesar tu solicitud.
+2025-05-27 19:25:21,203 - DEBUG - tld: com
+2025-05-27 19:25:21,203 - DEBUG - lang: es
+2025-05-27 19:25:21,204 - DEBUG - slow: False
+2025-05-27 19:25:21,204 - DEBUG - lang_check: True
+2025-05-27 19:25:21,205 - DEBUG - pre_processor_funcs: [<function tone_marks at 0x000001F25C0AA160>, <function end_of_line at 0x000001F25C0AA200>, <function abbreviations at 0x000001F25C0AA340>, <function word_sub at 0x000001F25C0AA3E0>]
+2025-05-27 19:25:21,211 - DEBUG - timeout: None
+2025-05-27 19:25:21,211 - DEBUG - langs: {'af': 'Afrikaans', 'am': 'Amharic', 'ar': 'Arabic', 'bg': 'Bulgarian', 'bn': 'Bengali', 'bs': 'Bosnian', 'ca': 'Catalan', 'cs': 'Czech', 'cy': 'Welsh', 'da': 'Danish', 'de': 'German', 'el': 'Greek', 'en': 'English', 'es': 'Spanish', 'et': 'Estonian', 'eu': 'Basque', 'fi': 'Finnish', 'fr': 'French', 'fr-CA': 'French (Canada)', 'gl': 'Galician', 'gu': 'Gujarati', 'ha': 'Hausa', 'hi': 'Hindi', 'hr': 'Croatian', 'hu': 'Hungarian', 'id': 'Indonesian', 'is': 'Icelandic', 'it': 'Italian', 'iw': 'Hebrew', 'ja': 'Japanese', 'jw': 'Javanese', 'km': 'Khmer', 'kn': 'Kannada', 'ko': 'Korean', 'la': 'Latin', 'lt': 'Lithuanian', 'lv': 'Latvian', 'ml': 'Malayalam', 'mr': 'Marathi', 'ms': 'Malay', 'my': 'Myanmar (Burmese)', 'ne': 'Nepali', 'nl': 'Dutch', 'no': 'Norwegian', 'pa': 'Punjabi (Gurmukhi)', 'pl': 'Polish', 'pt': 'Portuguese (Brazil)', 'pt-PT': 'Portuguese (Portugal)', 'ro': 'Romanian', 'ru': 'Russian', 'si': 'Sinhala', 'sk': 'Slovak', 'sq': 'Albanian', 'sr': 'Serbian', 'su': 'Sundanese', 'sv': 'Swedish', 'sw': 'Swahili', 'ta': 'Tamil', 'te': 'Telugu', 'th': 'Thai', 'tl': 'Filipino', 'tr': 'Turkish', 'uk': 'Ukrainian', 'ur': 'Urdu', 'vi': 'Vietnamese', 'yue': 'Cantonese', 'zh-CN': 'Chinese (Simplified)', 'zh-TW': 'Chinese (Mandarin/Taiwan)', 'zh': 'Chinese (Mandarin)'}
+2025-05-27 19:25:21,213 - DEBUG - pre-processing: <function tone_marks at 0x000001F25C0AA160>
+2025-05-27 19:25:21,213 - DEBUG - pre-processing: <function end_of_line at 0x000001F25C0AA200>
+2025-05-27 19:25:21,213 - DEBUG - pre-processing: <function abbreviations at 0x000001F25C0AA340>
+2025-05-27 19:25:21,214 - DEBUG - pre-processing: <function word_sub at 0x000001F25C0AA3E0>
+2025-05-27 19:25:21,214 - DEBUG - text_parts: ['Lo siento, no pude procesar tu solicitud.']
+2025-05-27 19:25:21,214 - DEBUG - text_parts: 1
+2025-05-27 19:25:21,215 - DEBUG - data-0: f.req=%5B%5B%5B%22jQ1olc%22%2C%22%5B%5C%22Lo%20siento%2C%20no%20pude%20procesar%20tu%20solicitud.%5C%22%2C%5C%22es%5C%22%2Cnull%2C%5C%22null%5C%22%5D%22%2Cnull%2C%22generic%22%5D%5D%5D&
+2025-05-27 19:25:21,217 - DEBUG - Starting new HTTPS connection (1): translate.google.com:443
+2025-05-27 19:25:22,013 - DEBUG - https://translate.google.com:443 "POST /_/TranslateWebserverUi/data/batchexecute HTTP/1.1" 200 None
+2025-05-27 19:25:22,553 - DEBUG - headers-0: {'Referer': 'http://translate.google.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36', 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8', 'Content-Length': '185'}
+2025-05-27 19:25:22,554 - DEBUG - url-0: https://translate.google.com/_/TranslateWebserverUi/data/batchexecute
+2025-05-27 19:25:22,554 - DEBUG - status-0: 200
+2025-05-27 19:25:22,555 - DEBUG - part-0 written to <_io.BufferedWriter name='c:\\Users\\Jinbe\\Desktop\\asistente-virtual\\temp_audio\\respuesta_ba1f52bd-aac2-4a90-814c-c03cfb533f51.mp3'>
+2025-05-27 19:25:22,556 - DEBUG - part-0 created
+2025-05-27 19:25:22,557 - DEBUG - Saved to c:\Users\Jinbe\Desktop\asistente-virtual\temp_audio\respuesta_ba1f52bd-aac2-4a90-814c-c03cfb533f51.mp3

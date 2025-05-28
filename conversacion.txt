@@ -1,0 +1,74 @@
+2025-05-27 19:02:16 - ELISA: ¡Hola! Soy ELISA, tu asistente virtual. ¿Cómo te llamas?
+2025-05-27 19:03:41 - ELISA: Grabando... 15s
+2025-05-27 19:03:51 - ELISA: Grabando... 15s
+2025-05-27 19:03:52 - ELISA: Grabando... 14s
+2025-05-27 19:03:53 - ELISA: Grabando... 13s
+2025-05-27 19:03:54 - ELISA: Grabando... 12s
+2025-05-27 19:03:55 - ELISA: Grabando... 11s
+2025-05-27 19:03:56 - ELISA: Grabando... 10s
+2025-05-27 19:03:57 - ELISA: Grabando... 9s
+2025-05-27 19:03:58 - ELISA: Grabando... 8s
+2025-05-27 19:03:59 - ELISA: Grabando... 7s
+2025-05-27 19:04:00 - ELISA: Grabando... 6s
+2025-05-27 19:04:01 - ELISA: Grabando... 5s
+2025-05-27 19:04:02 - ELISA: Grabando... 4s
+2025-05-27 19:04:03 - ELISA: Grabando... 3s
+2025-05-27 19:04:04 - ELISA: Grabando... 2s
+2025-05-27 19:04:05 - ELISA: Grabando... 1s
+2025-05-27 19:05:53 - Tú: Soy pablo.
+2025-05-27 19:05:53 - ELISA: ¡Mucho gusto, Pablo.! ¿En qué puedo ayudarte hoy?
+2025-05-27 19:06:03 - ELISA: Grabando... 15s
+2025-05-27 19:06:03 - ELISA: Grabando... 15s
+2025-05-27 19:06:04 - ELISA: Grabando... 14s
+2025-05-27 19:06:05 - ELISA: Grabando... 13s
+2025-05-27 19:06:06 - ELISA: Grabando... 12s
+2025-05-27 19:06:07 - ELISA: Grabando... 11s
+2025-05-27 19:06:08 - ELISA: Grabando... 10s
+2025-05-27 19:06:09 - ELISA: Grabando... 9s
+2025-05-27 19:06:10 - ELISA: Grabando... 8s
+2025-05-27 19:06:11 - ELISA: Grabando... 7s
+2025-05-27 19:06:12 - ELISA: Grabando... 6s
+2025-05-27 19:06:13 - ELISA: Grabando... 5s
+2025-05-27 19:06:14 - ELISA: Grabando... 4s
+2025-05-27 19:06:15 - ELISA: Grabando... 3s
+2025-05-27 19:06:16 - ELISA: Grabando... 2s
+2025-05-27 19:06:17 - ELISA: Grabando... 1s
+2025-05-27 19:06:25 - Tú: Elisa de que color es el mar? elisa de que color es el mar?
+2025-05-27 19:06:29 - ELISA: Lo siento, no pude procesar tu solicitud.
+2025-05-27 19:22:37 - ELISA: ¡Hola! Soy ELISA, tu asistente virtual. ¿Cómo te llamas?
+2025-05-27 19:23:57 - ELISA: Grabando... 15s
+2025-05-27 19:24:02 - ELISA: Grabando... 15s
+2025-05-27 19:24:02 - ELISA: Grabando... 14s
+2025-05-27 19:24:03 - ELISA: Grabando... 13s
+2025-05-27 19:24:05 - ELISA: Grabando... 12s
+2025-05-27 19:24:05 - ELISA: Grabando... 11s
+2025-05-27 19:24:06 - ELISA: Grabando... 10s
+2025-05-27 19:24:07 - ELISA: Grabando... 9s
+2025-05-27 19:24:08 - ELISA: Grabando... 8s
+2025-05-27 19:24:10 - ELISA: Grabando... 7s
+2025-05-27 19:24:11 - ELISA: Grabando... 6s
+2025-05-27 19:24:12 - ELISA: Grabando... 5s
+2025-05-27 19:24:13 - ELISA: Grabando... 4s
+2025-05-27 19:24:14 - ELISA: Grabando... 3s
+2025-05-27 19:24:15 - ELISA: Grabando... 2s
+2025-05-27 19:24:16 - ELISA: Grabando... 1s
+2025-05-27 19:24:45 - Tú: Me llamo pedro.
+2025-05-27 19:24:45 - ELISA: ¡Mucho gusto, Pedro.! ¿En qué puedo ayudarte hoy?
+2025-05-27 19:24:57 - ELISA: Grabando... 15s
+2025-05-27 19:24:57 - ELISA: Grabando... 15s
+2025-05-27 19:24:58 - ELISA: Grabando... 14s
+2025-05-27 19:24:59 - ELISA: Grabando... 13s
+2025-05-27 19:25:00 - ELISA: Grabando... 12s
+2025-05-27 19:25:01 - ELISA: Grabando... 11s
+2025-05-27 19:25:02 - ELISA: Grabando... 10s
+2025-05-27 19:25:03 - ELISA: Grabando... 9s
+2025-05-27 19:25:04 - ELISA: Grabando... 8s
+2025-05-27 19:25:05 - ELISA: Grabando... 7s
+2025-05-27 19:25:06 - ELISA: Grabando... 6s
+2025-05-27 19:25:07 - ELISA: Grabando... 5s
+2025-05-27 19:25:08 - ELISA: Grabando... 4s
+2025-05-27 19:25:09 - ELISA: Grabando... 3s
+2025-05-27 19:25:10 - ELISA: Grabando... 2s
+2025-05-27 19:25:11 - ELISA: Grabando... 1s
+2025-05-27 19:25:18 - Tú: Elisa, ¿cuántos planetas hay en el sistema solar?
+2025-05-27 19:25:21 - ELISA: Lo siento, no pude procesar tu solicitud.
